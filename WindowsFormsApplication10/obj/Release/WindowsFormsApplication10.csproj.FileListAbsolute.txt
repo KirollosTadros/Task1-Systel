@@ -1,0 +1,12 @@
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe.config
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.pdb
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Form1.resources
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Form2.resources
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Form3.resources
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Form4.resources
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.exe
+C:\Users\KirollosTadros\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.pdb
